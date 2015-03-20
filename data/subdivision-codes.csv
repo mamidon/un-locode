@@ -248,9 +248,7 @@ BA,06,Srednjobosanski Kanton
 BA,07,Hercegovačko-Neretvanski Kanton
 BA,08,Zapadnohercegovački kanton
 BA,09,Kanton Sarajevo
-BA,10,"Županija br. 10
-
-(Hercegbosanska županija)"
+BA,10,"Županija br. 10 (Hercegbosanska županija)"
 BA,BIH,Federacija Bosne i Hercegovine
 BA,BRC,Brčko distrikt
 BA,SRP,Republika Srpska
@@ -345,9 +343,7 @@ BE,WNA,Namur
 BF,BAL,Balé
 BF,BAM,Bam
 BF,BAN,Banwa
-BF,BAZ,"Bazèga
-
-ga"
+BF,BAZ,"Bazègaga"
 BF,BGR,Bougouriba
 BF,BLG,Boulgou
 BF,BLK,Boulkiemdé
@@ -2375,9 +2371,7 @@ LV,100,Vaiņodes novads (Vaiņode)
 LV,101,Valkas novads (Valka)
 LV,102,Varakļānu novads (Varakļāni)
 LV,103,Vārkavas novads (Vārkava)
-LV,104,"Vecpiebalgas novads
-
-(Vecpiebalga)"
+LV,104,"Vecpiebalgas novads (Vecpiebalga)"
 LV,105,Vecumnieku novads (Vecumnieki)
 LV,106,Ventspils novads (Ventspils)
 LV,107,Viesītes novads (Viesīte)
@@ -2529,9 +2523,7 @@ MD,DU,Dubăsari
 MD,ED,Edineţ
 MD,FA,Făleşti
 MD,FL,Floreşti
-MD,GA,"Găgăuzia, Unitatea teritorială
-
-autonomă (UTAG)"
+MD,GA,"Găgăuzia, Unitatea teritorialăautonomă (UTAG)"
 MD,GL,Glodeni
 MD,HI,Hînceşti
 MD,IA,Ialoveni
@@ -3054,12 +3046,8 @@ NO,17,Nord-Trøndelag
 NO,18,Nordland
 NO,19,Troms
 NO,20,Finnmark
-NO,21,"Svalbard (Arctic Region) (See
-
-also country code SJ)"
-NO,22,"Jan Mayen (Arctic Region) (See
-
-also country code SJ)"
+NO,21,"Svalbard (Arctic Region) (See also country code SJ)"
+NO,22,"Jan Mayen (Arctic Region) (See also country code SJ)"
 NP,BA,Bagmati
 NP,BH,Bheri
 NP,DH,Dhawalagiri
@@ -3809,9 +3797,7 @@ SI,200,Poljčane
 SI,201,Renèe-Vogrsko
 SI,202,Središče ob Dravi
 SI,203,Straža
-SI,204,"Sveta Trojica v Slovenskih
-
-Goricah"
+SI,204,"Sveta Trojica v Slovenskih Goricah"
 SI,205,Sveti Tomaž
 SI,206,Šmarješke Toplice
 SI,207,Gorje
